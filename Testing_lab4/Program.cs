@@ -11,6 +11,9 @@ namespace Testing_lab4
         static void Main(string[] args)
         {
             Console.WriteLine("Your name pleace: ");
+            var name = Console.ReadLine();
+
+            Console.WriteLine("Your name is " + name);
 
             Console.ReadLine();
         }
