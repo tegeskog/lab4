@@ -10,7 +10,7 @@ namespace Testing_lab4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tjenare alle sammans!!");
+            Console.WriteLine("Your name pleace: ");
 
             Console.ReadLine();
         }
