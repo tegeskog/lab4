@@ -8,5 +8,10 @@ namespace Testing_lab4
 {
     class StringUtility
     {
+        int x = 0;
+        double y = 0;
+
+
+
     }
 }
